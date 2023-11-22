@@ -1,0 +1,16 @@
+A mező sorszáma: 7      A mező tipusa: V
+A mező sorszáma: 16      A mező tipusa: V
+A mező sorszáma: 25      A mező tipusa: E
+A mező sorszáma: 45      A mező tipusa: E
+A mező sorszáma: 66      A mező tipusa: E
+A mező sorszáma: 83      A mező tipusa: V
+A mező sorszáma: 90      A mező tipusa: V
+A mező sorszáma: 97      A mező tipusa: E
+A mező sorszáma: 108      A mező tipusa: V
+A mező sorszáma: 128      A mező tipusa: V
+A mező sorszáma: 140      A mező tipusa: V
+A mező sorszáma: 149      A mező tipusa: E
+A mező sorszáma: 161      A mező tipusa: V
+A mező sorszáma: 168      A mező tipusa: E
+A mező sorszáma: 179      A mező tipusa: E
+A mező sorszáma: 191      A mező tipusa: E
